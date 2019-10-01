@@ -1,0 +1,11 @@
+{
+    "name": "studioone/halyk",
+    "description": "Halyk payment",
+    "authors": [
+        {
+            "name": "Armen",
+            "email": "armen.marabyan1@gmail.com"
+        }
+    ],
+    "require": {}
+}
