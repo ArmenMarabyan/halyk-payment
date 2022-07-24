@@ -1,5 +1,5 @@
 {
-    "name": "studioone/halyk",
+    "name": "menu/halyk-bank",
     "description": "Halyk payment",
     "authors": [
         {
@@ -7,5 +7,11 @@
             "email": "armen.marabyan1@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Studioone\\Halyk\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
 }
